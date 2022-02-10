@@ -1,0 +1,21 @@
+h1 {
+    position: relative;
+    text-align: center;
+}
+div {
+    position: relative;
+    text-align: center;
+    margin: auto;
+    width: 500px;
+}
+p {
+    position: relative;
+    text-align: center;
+}
+button {
+    position: relative;
+    text-align: center;
+    margin: auto;
+    width: 500px;
+}
+
